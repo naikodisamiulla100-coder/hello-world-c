@@ -1,5 +1,5 @@
 
-#Author Samiulla 
+#Author Samiulla(SAMI)
 # Hello World in C
 
 This is my first C programming project created as part of the Portfolio Building for Engineering Students course.
